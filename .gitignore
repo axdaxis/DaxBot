@@ -1,0 +1,7 @@
+# Bot config files
+config.json
+
+# Media folders
+botMedia/**
+
+node_modules/
