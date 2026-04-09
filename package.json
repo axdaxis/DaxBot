@@ -1,0 +1,25 @@
+{
+  "name": "daxbot",
+  "version": "1.0.0",
+  "description": "DaxBot - the Discord bot created by axdaxis",
+  "main": "index.js",
+  "scripts": {
+    "bot": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axdaxis/DaxBot.git"
+  },
+  "keywords": [
+    "discordbot"
+  ],
+  "author": "axdaxis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axdaxis/DaxBot/issues"
+  },
+  "homepage": "https://github.com/axdaxis/DaxBot#readme",
+  "dependencies": {
+    "discord.js": "^14.25.1"
+  }
+}
