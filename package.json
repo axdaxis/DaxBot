@@ -4,7 +4,8 @@
   "description": "DaxBot - the Discord bot created by axdaxis",
   "main": "index.js",
   "scripts": {
-    "bot": "node index.js"
+    "bot": "node index.js",
+    "deploy": "node deploy.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,9 @@
   "homepage": "https://github.com/axdaxis/DaxBot#readme",
   "dependencies": {
     "discord.js": "^14.25.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.2.1"
   }
 }
