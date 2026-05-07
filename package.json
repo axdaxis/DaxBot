@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/axdaxis/DaxBot#readme",
   "dependencies": {
-    "discord.js": "^14.25.1"
+    "discord.js": "^14.25.1",
+    "emusks": "^2.0.18"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
