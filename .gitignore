@@ -2,6 +2,12 @@
 config.json
 
 # Media folders
-botMedia/**
+media/
+# extra one for symbolic link good measure
+media
+
+# Temp folders
+temp/
 
 node_modules/
+
